@@ -1,6 +1,6 @@
 # NotifyR
 
-Send push notifications to any platform from any back end
+Send web push notifications to any platform from any back end
 
 * Reach all major platforms — iOS, macOS, Android, Windows, Linux etc
 * Use any back end, in the cloud or on-premises
